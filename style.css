@@ -59,7 +59,8 @@ border-radius:100px ;
 }
 #cam3:hover
 {
-border-radius: 150px;  
+border-radius: 300px;
+border-color: darkblue;  
 }
 
 
