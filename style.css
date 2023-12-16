@@ -1,0 +1,66 @@
+body {
+background-color: aqua  ;
+}
+
+#footer
+{
+    font-size: 40px;
+}
+
+#title
+{
+    color: chartreuse;
+}
+.h41
+{
+    color: darkred;
+    font-size:25px;
+}
+#camera
+{
+    background-color:white;
+    height: 250px;
+    width: 350px;
+    border-color: black ;
+}
+
+#cam1
+{
+    border-radius: 25px;
+    box-shadow: 20px;
+    width: 28%;
+
+}
+
+#cam2
+{
+    border-radius: 15px;
+    box-shadow: 20px;
+    width: 35%;
+
+}
+#cam3
+{
+    border-radius: 5px;
+    box-shadow: 20px;
+    width: 40%;
+    
+}
+#cam1:hover
+{
+border-radius: 0px;
+border-color: black;
+}
+
+#cam2:hover
+{
+size:300%;
+border-radius:100px ;   
+}
+#cam3:hover
+{
+border-radius: 150px;  
+}
+
+
+
